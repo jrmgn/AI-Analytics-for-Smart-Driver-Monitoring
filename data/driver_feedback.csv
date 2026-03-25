@@ -1,0 +1,1001 @@
+trip_id,driver_id,avg_speed_kmh,hard_brake_event,rating,feedback_text
+T00000,D038,30.743643875696876,0,5,"Amazing driver, felt very safe."
+T00001,D028,21.117369376717072,0,5,Smooth ride and professional.
+T00002,D014,57.83201511478309,0,4,Professional service.
+T00003,D042,39.38037354128841,0,5,"Amazing driver, felt very safe."
+T00004,D007,42.609494937543545,0,5,"Amazing driver, felt very safe."
+T00005,D020,53.618079208636416,0,4,"Steady driving, no complaints."
+T00006,D038,39.86814165544966,0,4,Professional service.
+T00007,D018,46.77116797971247,0,5,"Clean car, great experience!"
+T00008,D022,52.237774307336345,0,4,"Steady driving, no complaints."
+T00009,D010,48.5013389037824,0,5,Smooth ride and professional.
+T00010,D010,44.289702492824254,0,4,Professional service.
+T00011,D023,66.74669253062585,1,2,Driver was speeding on the highway.
+T00012,D035,58.62955897014784,0,4,Professional service.
+T00013,D039,38.7135524615075,0,5,"Clean car, great experience!"
+T00014,D023,26.354605747773206,0,5,"Amazing driver, felt very safe."
+T00015,D002,49.579354747564665,0,4,"Good trip, arrived on time."
+T00016,D021,43.23790972283508,0,4,Professional service.
+T00017,D001,65.6349349478325,0,4,Professional service.
+T00018,D023,54.812395085510836,0,4,Professional service.
+T00019,D043,51.46306582002862,0,4,Professional service.
+T00020,D029,40.19427306931142,0,4,Professional service.
+T00021,D037,26.86451887499136,0,5,"Clean car, great experience!"
+T00022,D001,37.03055546948027,0,4,"Steady driving, no complaints."
+T00023,D020,47.15242141486166,0,5,"Clean car, great experience!"
+T00024,D032,14.056298604862818,0,5,Smooth ride and professional.
+T00025,D011,58.62570939478516,0,3,Average experience.
+T00026,D021,71.00566002627069,0,4,Professional service.
+T00027,D043,10.825910644438757,0,5,"Clean car, great experience!"
+T00028,D024,18.996766734796964,0,5,Smooth ride and professional.
+T00029,D048,43.4449369634971,0,4,"Steady driving, no complaints."
+T00030,D026,31.261286265475988,0,5,"Clean car, great experience!"
+T00031,D041,43.9135965074751,0,5,"Clean car, great experience!"
+T00032,D027,38.92488945163844,0,5,Smooth ride and professional.
+T00033,D015,24.642722207664185,0,5,Smooth ride and professional.
+T00034,D014,59.32609510267734,0,5,Smooth ride and professional.
+T00035,D046,46.96774907864274,1,3,"Fine ride, but the car smelled a bit."
+T00036,D043,31.60387037907592,0,5,Smooth ride and professional.
+T00037,D002,62.57537671991231,0,5,"Amazing driver, felt very safe."
+T00038,D036,32.37391067659371,0,4,Professional service.
+T00039,D006,21.372392249416997,0,5,"Clean car, great experience!"
+T00040,D020,42.752677346316034,0,4,"Steady driving, no complaints."
+T00041,D008,45.29736434833998,0,4,Professional service.
+T00042,D038,47.97875338328269,0,4,Professional service.
+T00043,D017,50.445266899787306,0,4,Professional service.
+T00044,D003,47.741870928665364,0,5,"Clean car, great experience!"
+T00045,D024,47.132404621737614,1,3,"Fine ride, but the car smelled a bit."
+T00046,D013,31.393692995377528,0,5,"Amazing driver, felt very safe."
+T00047,D049,29.788835881441695,0,5,Smooth ride and professional.
+T00048,D008,51.13547374388677,0,4,"Steady driving, no complaints."
+T00049,D025,43.65184766049831,1,3,Average experience.
+T00050,D001,52.30368609229383,1,3,Driver was a bit slow.
+T00051,D019,14.390842665586021,0,5,"Clean car, great experience!"
+T00052,D027,32.488204263736094,0,4,"Good trip, arrived on time."
+T00053,D046,68.60528352865833,0,4,"Good trip, arrived on time."
+T00054,D006,48.2879972852116,0,4,"Steady driving, no complaints."
+T00055,D043,44.433256764687286,0,4,"Good trip, arrived on time."
+T00056,D007,50.61886550454511,1,3,"Fine ride, but the car smelled a bit."
+T00057,D046,73.12675788799271,0,4,"Good trip, arrived on time."
+T00058,D034,69.97074313430542,1,2,Sudden braking made me nervous.
+T00059,D013,16.307188640311093,1,3,"Fine ride, but the car smelled a bit."
+T00060,D016,21.842482613959476,0,5,Smooth ride and professional.
+T00061,D035,15.798840166738117,0,5,Smooth ride and professional.
+T00062,D049,28.793381665896057,0,5,"Amazing driver, felt very safe."
+T00063,D039,40.823789479783855,0,5,Smooth ride and professional.
+T00064,D003,43.63022716101695,0,4,Professional service.
+T00065,D001,17.04281885219121,0,5,"Amazing driver, felt very safe."
+T00066,D005,11.98972260446336,0,5,"Clean car, great experience!"
+T00067,D041,28.528129195668242,0,5,Smooth ride and professional.
+T00068,D003,53.742568984069315,0,4,"Steady driving, no complaints."
+T00069,D028,56.355443675404686,0,4,Professional service.
+T00070,D017,65.58737289006528,1,2,Driver was speeding on the highway.
+T00071,D025,39.51504623612329,0,4,"Good trip, arrived on time."
+T00072,D043,52.42230235585158,0,4,Professional service.
+T00073,D033,55.1484244157449,0,4,"Good trip, arrived on time."
+T00074,D009,32.54711450991068,0,5,"Clean car, great experience!"
+T00075,D035,45.81767322295699,0,5,Smooth ride and professional.
+T00076,D013,49.880576885646306,0,5,"Clean car, great experience!"
+T00077,D030,26.36263574372314,0,5,"Clean car, great experience!"
+T00078,D047,64.63144256661165,0,4,"Good trip, arrived on time."
+T00079,D014,39.417815759199605,0,5,Smooth ride and professional.
+T00080,D007,41.30552842220009,0,5,"Amazing driver, felt very safe."
+T00081,D013,25.789879300868133,0,5,Smooth ride and professional.
+T00082,D022,28.308607061837,0,5,"Amazing driver, felt very safe."
+T00083,D039,10.0,0,5,"Clean car, great experience!"
+T00084,D020,40.82733814627918,0,5,"Amazing driver, felt very safe."
+T00085,D015,77.58533814462959,0,3,Average experience.
+T00086,D044,24.720708278432692,0,5,Smooth ride and professional.
+T00087,D017,84.6429539223246,0,3,Driver was a bit slow.
+T00088,D046,61.2137689391862,0,4,"Steady driving, no complaints."
+T00089,D023,32.89616828534337,0,5,"Amazing driver, felt very safe."
+T00090,D025,40.40897057228318,0,5,"Clean car, great experience!"
+T00091,D024,37.97349538127594,0,5,Smooth ride and professional.
+T00092,D044,65.59245960096567,0,4,"Steady driving, no complaints."
+T00093,D040,47.75523595176941,0,5,"Amazing driver, felt very safe."
+T00094,D028,57.72961072932721,0,4,"Good trip, arrived on time."
+T00095,D014,45.37257768042022,0,5,"Clean car, great experience!"
+T00096,D044,38.32041219108074,1,3,Average experience.
+T00097,D000,44.89635047606072,0,5,"Amazing driver, felt very safe."
+T00098,D024,33.89583649191878,0,5,"Clean car, great experience!"
+T00099,D006,18.216939347936535,0,5,Smooth ride and professional.
+T00100,D008,52.20532863934976,0,4,"Steady driving, no complaints."
+T00101,D023,17.482533274853697,0,5,"Clean car, great experience!"
+T00102,D000,35.96748734807237,0,5,"Clean car, great experience!"
+T00103,D043,33.40203568576874,0,5,"Amazing driver, felt very safe."
+T00104,D007,49.65030896581105,0,4,"Steady driving, no complaints."
+T00105,D023,63.470568774002935,0,5,Smooth ride and professional.
+T00106,D010,58.07455970951122,0,4,"Steady driving, no complaints."
+T00107,D016,50.08637528342639,0,5,"Clean car, great experience!"
+T00108,D007,30.55192531568827,0,5,"Amazing driver, felt very safe."
+T00109,D034,37.247962696053044,0,5,Smooth ride and professional.
+T00110,D034,35.06089439416273,0,4,Professional service.
+T00111,D032,32.94577829905835,0,5,Smooth ride and professional.
+T00112,D004,33.963233370597436,0,5,"Amazing driver, felt very safe."
+T00113,D041,33.56292947398614,0,4,"Steady driving, no complaints."
+T00114,D038,32.89860710949256,0,4,"Good trip, arrived on time."
+T00115,D040,54.27824527042831,0,4,"Good trip, arrived on time."
+T00116,D027,24.180446667008617,0,5,Smooth ride and professional.
+T00117,D006,29.057888465442545,0,5,Smooth ride and professional.
+T00118,D008,16.24889918440732,0,5,"Amazing driver, felt very safe."
+T00119,D007,61.232242037662736,0,4,Professional service.
+T00120,D011,28.052455620136193,0,4,"Good trip, arrived on time."
+T00121,D033,49.9116284758321,0,5,Smooth ride and professional.
+T00122,D032,47.129782903184605,0,4,"Steady driving, no complaints."
+T00123,D047,59.78257931636156,0,4,Professional service.
+T00124,D022,36.84974952437359,0,5,"Amazing driver, felt very safe."
+T00125,D023,25.786903190711314,0,5,"Amazing driver, felt very safe."
+T00126,D036,16.663750361925572,0,5,"Amazing driver, felt very safe."
+T00127,D034,10.0,0,5,Smooth ride and professional.
+T00128,D043,42.42029838818354,0,5,"Amazing driver, felt very safe."
+T00129,D039,51.63208858733371,0,5,"Clean car, great experience!"
+T00130,D021,47.075321577967614,0,4,"Steady driving, no complaints."
+T00131,D026,17.053535452407882,1,4,"Steady driving, no complaints."
+T00132,D034,55.58239217667894,0,4,"Good trip, arrived on time."
+T00133,D000,29.526759575269715,0,5,"Clean car, great experience!"
+T00134,D034,26.396447587873688,0,5,Smooth ride and professional.
+T00135,D036,29.190516470452245,0,5,Smooth ride and professional.
+T00136,D046,41.17613383759115,0,5,"Amazing driver, felt very safe."
+T00137,D013,17.729476427243917,0,5,"Amazing driver, felt very safe."
+T00138,D002,39.444461294213234,0,5,"Clean car, great experience!"
+T00139,D000,46.44172368075504,0,5,"Amazing driver, felt very safe."
+T00140,D004,56.609858443654225,0,4,Professional service.
+T00141,D025,42.63934985831866,0,4,"Steady driving, no complaints."
+T00142,D013,19.905572527093128,0,5,"Clean car, great experience!"
+T00143,D038,42.23335341478335,0,4,Professional service.
+T00144,D026,24.096125890808203,0,5,"Clean car, great experience!"
+T00145,D008,23.230822654495743,0,5,Smooth ride and professional.
+T00146,D014,19.559445946900315,0,5,"Amazing driver, felt very safe."
+T00147,D014,11.331194801589639,0,5,Smooth ride and professional.
+T00148,D025,31.492552480969074,0,5,"Amazing driver, felt very safe."
+T00149,D041,56.93333114570361,0,4,Professional service.
+T00150,D012,73.84726023141313,0,4,Professional service.
+T00151,D031,31.396222624898588,0,4,Professional service.
+T00152,D038,56.29158290154483,0,5,"Clean car, great experience!"
+T00153,D048,34.08126522645107,0,5,"Clean car, great experience!"
+T00154,D031,15.238964208271582,0,5,"Amazing driver, felt very safe."
+T00155,D003,50.514133921691155,0,4,"Good trip, arrived on time."
+T00156,D029,43.522211301933496,0,5,"Clean car, great experience!"
+T00157,D036,67.27029411941673,0,4,"Steady driving, no complaints."
+T00158,D022,16.97982277025866,0,5,Smooth ride and professional.
+T00159,D038,81.94049062502916,0,4,Professional service.
+T00160,D044,63.87575984782234,0,4,"Good trip, arrived on time."
+T00161,D014,39.73114639657219,0,5,Smooth ride and professional.
+T00162,D042,35.52043312302223,0,5,Smooth ride and professional.
+T00163,D028,29.26285196697074,0,5,Smooth ride and professional.
+T00164,D035,41.64598958781689,0,5,"Clean car, great experience!"
+T00165,D012,37.24095766886532,0,5,Smooth ride and professional.
+T00166,D031,47.70693120370917,0,4,"Steady driving, no complaints."
+T00167,D006,35.58450008472541,0,5,Smooth ride and professional.
+T00168,D021,61.22445537244994,0,4,"Steady driving, no complaints."
+T00169,D027,41.8756904674967,0,5,"Amazing driver, felt very safe."
+T00170,D001,36.14774458111402,0,5,"Clean car, great experience!"
+T00171,D041,55.364298726690855,1,3,Driver was a bit slow.
+T00172,D044,15.662145547033717,0,5,"Amazing driver, felt very safe."
+T00173,D005,45.11482528415701,0,4,"Good trip, arrived on time."
+T00174,D027,40.3835700461415,0,4,Professional service.
+T00175,D027,18.837242043913257,0,5,Smooth ride and professional.
+T00176,D043,14.372450806472386,0,5,Smooth ride and professional.
+T00177,D043,55.155175044123666,0,5,"Clean car, great experience!"
+T00178,D019,54.4418603552604,0,4,"Steady driving, no complaints."
+T00179,D029,42.58837644451539,0,5,"Amazing driver, felt very safe."
+T00180,D010,65.74986664682086,0,4,"Steady driving, no complaints."
+T00181,D027,46.61452272791903,0,4,"Steady driving, no complaints."
+T00182,D024,58.74707979116823,0,4,"Steady driving, no complaints."
+T00183,D038,46.30486880776781,0,4,Professional service.
+T00184,D032,35.86285651597012,0,5,"Amazing driver, felt very safe."
+T00185,D000,24.137031228499865,0,5,Smooth ride and professional.
+T00186,D026,30.948456176458556,0,5,"Clean car, great experience!"
+T00187,D012,36.143165931291726,0,5,Smooth ride and professional.
+T00188,D040,60.44729653160058,0,4,"Good trip, arrived on time."
+T00189,D002,51.54879337794495,0,5,Smooth ride and professional.
+T00190,D038,44.954786023639244,0,4,"Good trip, arrived on time."
+T00191,D005,53.05014861346112,0,5,Smooth ride and professional.
+T00192,D007,47.910755735387234,0,4,"Good trip, arrived on time."
+T00193,D026,43.929064166602394,1,3,Average experience.
+T00194,D008,17.52010897739568,0,5,"Amazing driver, felt very safe."
+T00195,D036,57.08736359292515,0,4,"Steady driving, no complaints."
+T00196,D032,33.12232228710286,0,5,Smooth ride and professional.
+T00197,D041,56.328104164338164,0,4,Professional service.
+T00198,D043,57.778154372663344,0,4,Professional service.
+T00199,D023,29.9494120966698,0,5,"Amazing driver, felt very safe."
+T00200,D014,54.245741208939066,0,4,"Steady driving, no complaints."
+T00201,D031,34.585187811161525,0,5,"Amazing driver, felt very safe."
+T00202,D031,34.674515085299134,0,4,Professional service.
+T00203,D023,43.86209851873987,0,4,"Good trip, arrived on time."
+T00204,D040,44.267088837543106,0,4,"Good trip, arrived on time."
+T00205,D048,40.57827273026338,0,4,Professional service.
+T00206,D048,19.98567976666065,0,5,Smooth ride and professional.
+T00207,D011,38.17830040773491,0,5,"Amazing driver, felt very safe."
+T00208,D038,74.1771809228261,0,4,Professional service.
+T00209,D001,10.0,0,5,Smooth ride and professional.
+T00210,D002,53.046106603426196,0,4,Professional service.
+T00211,D048,55.85687400034463,0,4,"Good trip, arrived on time."
+T00212,D036,19.62478421070772,0,4,"Steady driving, no complaints."
+T00213,D048,32.95841629885681,0,4,"Steady driving, no complaints."
+T00214,D016,24.98924263084983,0,4,Professional service.
+T00215,D048,67.80948065967819,0,4,Professional service.
+T00216,D001,56.54537900166674,0,4,Professional service.
+T00217,D001,57.27138061697099,0,5,Smooth ride and professional.
+T00218,D027,41.80970838992193,0,4,"Steady driving, no complaints."
+T00219,D022,59.681379246244646,0,4,"Good trip, arrived on time."
+T00220,D036,39.876451494068824,0,5,Smooth ride and professional.
+T00221,D031,60.38736440815837,0,4,"Good trip, arrived on time."
+T00222,D032,37.769553638316694,0,5,"Clean car, great experience!"
+T00223,D000,29.81137124929841,0,5,"Clean car, great experience!"
+T00224,D018,67.16425399497915,0,4,"Steady driving, no complaints."
+T00225,D001,39.68726859002295,0,4,Professional service.
+T00226,D043,26.51800137636304,1,3,Driver was a bit slow.
+T00227,D025,26.355491537650416,0,4,"Steady driving, no complaints."
+T00228,D031,26.40131990471439,0,5,"Amazing driver, felt very safe."
+T00229,D005,52.66663526544053,0,4,"Steady driving, no complaints."
+T00230,D031,38.517056844321765,1,3,"Fine ride, but the car smelled a bit."
+T00231,D003,74.46938463995625,0,4,"Steady driving, no complaints."
+T00232,D010,57.79267273486181,0,4,"Steady driving, no complaints."
+T00233,D016,43.857071951409566,0,5,"Clean car, great experience!"
+T00234,D037,61.05846311797424,0,4,"Steady driving, no complaints."
+T00235,D023,32.56738995295775,0,4,"Steady driving, no complaints."
+T00236,D004,12.178212937610414,0,5,"Amazing driver, felt very safe."
+T00237,D033,25.156254136378898,0,5,"Clean car, great experience!"
+T00238,D005,42.208117440544044,0,4,"Good trip, arrived on time."
+T00239,D021,36.661877917432896,0,4,"Good trip, arrived on time."
+T00240,D010,52.36623082386191,0,4,Professional service.
+T00241,D047,38.13079327984796,1,4,Professional service.
+T00242,D015,51.22052088942588,0,4,Professional service.
+T00243,D032,62.514574458464345,0,4,"Steady driving, no complaints."
+T00244,D008,38.08456224083842,0,5,"Clean car, great experience!"
+T00245,D005,48.32717933066682,0,5,"Clean car, great experience!"
+T00246,D015,13.67819739137149,0,5,"Clean car, great experience!"
+T00247,D028,38.141590318891616,0,5,"Amazing driver, felt very safe."
+T00248,D002,21.52062811380968,1,3,"Fine ride, but the car smelled a bit."
+T00249,D019,42.1784016569402,0,5,Smooth ride and professional.
+T00250,D035,43.53999635015996,0,5,"Amazing driver, felt very safe."
+T00251,D018,43.49014536870692,0,4,"Steady driving, no complaints."
+T00252,D025,32.7981611530556,1,3,"Fine ride, but the car smelled a bit."
+T00253,D002,74.4770329260225,0,4,Professional service.
+T00254,D018,20.979677325353975,0,5,"Amazing driver, felt very safe."
+T00255,D019,20.062812592577256,0,5,Smooth ride and professional.
+T00256,D031,64.82467563604877,0,4,"Good trip, arrived on time."
+T00257,D006,29.4358130411516,0,5,"Clean car, great experience!"
+T00258,D040,25.82963968695355,0,5,Smooth ride and professional.
+T00259,D032,74.54367846584668,0,4,Professional service.
+T00260,D039,54.78584075235346,0,4,Professional service.
+T00261,D038,31.08303177792667,0,5,Smooth ride and professional.
+T00262,D017,43.262618585403416,1,3,Driver was a bit slow.
+T00263,D039,69.18806927241526,0,4,Professional service.
+T00264,D000,50.37431021426301,1,3,"Fine ride, but the car smelled a bit."
+T00265,D010,59.29222682659664,0,5,"Clean car, great experience!"
+T00266,D027,52.07204768100708,0,4,Professional service.
+T00267,D024,53.95380018930312,0,5,"Clean car, great experience!"
+T00268,D049,40.59612543865641,0,5,"Clean car, great experience!"
+T00269,D022,40.17022718464329,0,5,Smooth ride and professional.
+T00270,D030,44.00575578022681,0,5,"Amazing driver, felt very safe."
+T00271,D029,51.01679211175451,0,4,Professional service.
+T00272,D041,35.750270262510796,0,5,"Clean car, great experience!"
+T00273,D034,41.83080901754507,0,5,Smooth ride and professional.
+T00274,D006,35.34481576066022,0,5,"Clean car, great experience!"
+T00275,D015,41.73527232991794,0,5,Smooth ride and professional.
+T00276,D025,21.235055035272296,0,5,"Amazing driver, felt very safe."
+T00277,D047,79.08966200439278,0,4,"Good trip, arrived on time."
+T00278,D048,29.005898218316858,0,5,"Clean car, great experience!"
+T00279,D001,34.57808912860853,0,5,"Clean car, great experience!"
+T00280,D000,27.711034096677963,0,5,"Clean car, great experience!"
+T00281,D047,49.2356312374681,1,2,Driver was speeding on the highway.
+T00282,D011,37.059960531365036,0,5,"Clean car, great experience!"
+T00283,D004,25.542887348541733,1,3,Driver was a bit slow.
+T00284,D036,49.85325049336514,0,4,"Good trip, arrived on time."
+T00285,D031,51.874737218841865,0,4,Professional service.
+T00286,D008,38.996855132841,0,5,"Amazing driver, felt very safe."
+T00287,D040,30.045610729268844,0,5,"Clean car, great experience!"
+T00288,D034,72.86599008339576,0,4,"Good trip, arrived on time."
+T00289,D018,45.10101445787846,0,4,Professional service.
+T00290,D047,20.888965225700144,0,5,"Amazing driver, felt very safe."
+T00291,D015,61.210606915041524,1,2,Driver was speeding on the highway.
+T00292,D002,27.163378758811433,0,5,"Amazing driver, felt very safe."
+T00293,D019,81.12817510404875,0,3,"Fine ride, but the car smelled a bit."
+T00294,D023,41.1948678629138,0,5,"Amazing driver, felt very safe."
+T00295,D032,55.199740540830305,0,5,"Clean car, great experience!"
+T00296,D023,10.0,0,5,"Clean car, great experience!"
+T00297,D010,20.737886738650555,0,5,"Clean car, great experience!"
+T00298,D048,60.007894296410726,0,4,"Steady driving, no complaints."
+T00299,D007,44.767225984437054,0,5,Smooth ride and professional.
+T00300,D035,70.63594634071109,0,4,"Good trip, arrived on time."
+T00301,D037,47.27762657844384,0,4,"Steady driving, no complaints."
+T00302,D039,42.1794435961156,0,5,"Amazing driver, felt very safe."
+T00303,D019,65.70360986233308,0,4,"Good trip, arrived on time."
+T00304,D034,55.152054988381664,0,5,"Amazing driver, felt very safe."
+T00305,D047,37.05608201085566,0,5,Smooth ride and professional.
+T00306,D024,23.588438492523295,0,5,"Clean car, great experience!"
+T00307,D034,10.0,0,5,Smooth ride and professional.
+T00308,D024,33.43501495295942,0,5,"Amazing driver, felt very safe."
+T00309,D028,22.20497357167942,0,5,"Amazing driver, felt very safe."
+T00310,D017,78.96556964851575,0,4,"Steady driving, no complaints."
+T00311,D045,30.2444358389496,1,4,"Good trip, arrived on time."
+T00312,D017,29.834364915624327,0,5,"Amazing driver, felt very safe."
+T00313,D001,17.181326881170317,1,4,"Steady driving, no complaints."
+T00314,D034,36.00524007215945,0,5,Smooth ride and professional.
+T00315,D015,30.031976055366812,1,3,Average experience.
+T00316,D040,66.06594143116689,0,4,"Good trip, arrived on time."
+T00317,D035,42.52714239122477,0,4,"Good trip, arrived on time."
+T00318,D032,39.86703966015434,0,5,"Clean car, great experience!"
+T00319,D003,37.979908688761036,0,4,Professional service.
+T00320,D032,51.79262380283804,0,4,"Steady driving, no complaints."
+T00321,D013,33.21507751548249,0,5,"Clean car, great experience!"
+T00322,D020,50.00809140297757,0,5,"Amazing driver, felt very safe."
+T00323,D047,64.20954731091166,0,4,Professional service.
+T00324,D019,46.9011251544947,0,4,"Good trip, arrived on time."
+T00325,D007,36.25403075762297,0,5,Smooth ride and professional.
+T00326,D006,25.69811243542148,0,5,Smooth ride and professional.
+T00327,D002,35.873140204793884,0,5,"Amazing driver, felt very safe."
+T00328,D016,48.44618310958856,0,4,Professional service.
+T00329,D032,17.012089871240182,0,5,Smooth ride and professional.
+T00330,D047,52.473141365639236,0,5,Smooth ride and professional.
+T00331,D011,43.11419032342097,0,4,Professional service.
+T00332,D021,37.76216260361922,0,5,"Clean car, great experience!"
+T00333,D021,30.108798828234967,0,5,"Amazing driver, felt very safe."
+T00334,D045,32.85433448545949,0,5,"Clean car, great experience!"
+T00335,D029,48.959590621979615,0,5,"Clean car, great experience!"
+T00336,D037,38.07682710857334,0,4,Professional service.
+T00337,D037,32.48290049082145,0,5,"Amazing driver, felt very safe."
+T00338,D044,47.02845240057284,0,5,"Amazing driver, felt very safe."
+T00339,D007,47.62284666238195,0,4,"Steady driving, no complaints."
+T00340,D026,21.262374080139285,1,4,"Good trip, arrived on time."
+T00341,D026,48.57221044865477,1,2,Driver was speeding on the highway.
+T00342,D033,77.52547319290665,0,4,Professional service.
+T00343,D020,47.04431184063257,0,4,"Steady driving, no complaints."
+T00344,D029,14.514891927344983,0,5,Smooth ride and professional.
+T00345,D032,42.66063087759319,0,5,"Clean car, great experience!"
+T00346,D027,12.537769387094727,0,5,Smooth ride and professional.
+T00347,D046,87.5105750809624,0,4,"Good trip, arrived on time."
+T00348,D032,73.5351203047671,0,4,"Good trip, arrived on time."
+T00349,D004,30.010922758069057,0,5,"Amazing driver, felt very safe."
+T00350,D047,10.0,0,5,"Amazing driver, felt very safe."
+T00351,D018,26.824432193608235,0,5,Smooth ride and professional.
+T00352,D003,37.28513891590415,0,5,Smooth ride and professional.
+T00353,D034,13.572043869403924,0,5,"Clean car, great experience!"
+T00354,D048,38.96466227505658,0,5,Smooth ride and professional.
+T00355,D016,37.186320035946224,1,3,Average experience.
+T00356,D043,41.87732045594333,0,4,"Steady driving, no complaints."
+T00357,D027,43.4446776540697,0,5,"Clean car, great experience!"
+T00358,D029,25.515736001842725,0,5,"Amazing driver, felt very safe."
+T00359,D028,27.198789403755185,0,5,Smooth ride and professional.
+T00360,D045,40.68388246705075,0,4,Professional service.
+T00361,D005,30.53511805189079,0,5,"Clean car, great experience!"
+T00362,D034,53.612421526258835,0,5,"Clean car, great experience!"
+T00363,D040,40.5384182465155,1,3,"Fine ride, but the car smelled a bit."
+T00364,D036,67.97504850996211,0,4,"Steady driving, no complaints."
+T00365,D023,52.307236574068384,0,5,"Clean car, great experience!"
+T00366,D028,56.55570804085897,0,4,"Good trip, arrived on time."
+T00367,D048,41.98849101947179,0,5,"Clean car, great experience!"
+T00368,D045,42.360422519354444,0,4,Professional service.
+T00369,D030,65.96980869863765,0,4,Professional service.
+T00370,D034,34.32560674694456,0,4,Professional service.
+T00371,D032,48.20169031247859,1,3,Driver was a bit slow.
+T00372,D020,36.006437017578136,0,5,"Amazing driver, felt very safe."
+T00373,D031,35.970459124190455,1,3,Average experience.
+T00374,D022,22.4665560138742,0,5,Smooth ride and professional.
+T00375,D032,28.862284737145888,0,5,Smooth ride and professional.
+T00376,D002,26.075958228753244,0,5,Smooth ride and professional.
+T00377,D017,48.91553213384754,0,5,"Amazing driver, felt very safe."
+T00378,D024,55.60308892335494,0,4,"Good trip, arrived on time."
+T00379,D041,38.57869939632396,0,5,"Amazing driver, felt very safe."
+T00380,D030,43.4444189524548,0,5,"Clean car, great experience!"
+T00381,D002,37.71292967342356,0,5,"Clean car, great experience!"
+T00382,D039,27.838361201605224,0,5,"Clean car, great experience!"
+T00383,D045,52.933945371953186,0,4,"Steady driving, no complaints."
+T00384,D023,49.788020406392185,0,4,Professional service.
+T00385,D049,11.611810220440546,0,5,Smooth ride and professional.
+T00386,D031,35.753364981471194,0,5,"Clean car, great experience!"
+T00387,D046,26.769589881888574,0,5,Smooth ride and professional.
+T00388,D021,34.135921455021624,1,3,Driver was a bit slow.
+T00389,D022,29.94352649430611,0,5,"Clean car, great experience!"
+T00390,D001,39.303694438879,0,5,"Amazing driver, felt very safe."
+T00391,D026,35.05127897299789,1,3,Driver was a bit slow.
+T00392,D041,34.732889592687414,0,4,Professional service.
+T00393,D001,56.6108264250807,0,4,"Good trip, arrived on time."
+T00394,D025,48.35767991003873,0,4,"Steady driving, no complaints."
+T00395,D016,29.441580245493498,0,5,"Amazing driver, felt very safe."
+T00396,D039,31.666799007798684,0,5,"Amazing driver, felt very safe."
+T00397,D032,47.37689583099419,0,4,"Steady driving, no complaints."
+T00398,D008,47.3562935755415,0,4,Professional service.
+T00399,D042,30.943296414068964,0,5,Smooth ride and professional.
+T00400,D047,36.49013999646753,0,5,"Clean car, great experience!"
+T00401,D038,67.70209060130452,0,4,Professional service.
+T00402,D028,31.201778672179856,0,5,Smooth ride and professional.
+T00403,D041,68.66206882688178,0,4,"Good trip, arrived on time."
+T00404,D025,56.555004137887074,0,4,"Steady driving, no complaints."
+T00405,D034,65.88124412583198,0,4,Professional service.
+T00406,D049,30.563920418958567,0,5,Smooth ride and professional.
+T00407,D024,37.47166188905858,0,5,Smooth ride and professional.
+T00408,D023,33.26254286836656,0,4,Professional service.
+T00409,D012,56.90129787889305,0,4,"Good trip, arrived on time."
+T00410,D006,31.484743409918657,0,5,Smooth ride and professional.
+T00411,D035,50.96823240014311,0,4,Professional service.
+T00412,D044,50.17449116788062,0,5,"Clean car, great experience!"
+T00413,D019,39.27955703928735,0,5,Smooth ride and professional.
+T00414,D000,59.47989601246503,0,4,"Good trip, arrived on time."
+T00415,D007,41.61519804589908,0,4,"Steady driving, no complaints."
+T00416,D045,52.51128577912455,0,5,"Amazing driver, felt very safe."
+T00417,D015,32.579449466233264,0,5,"Amazing driver, felt very safe."
+T00418,D013,29.148447788397625,0,4,"Good trip, arrived on time."
+T00419,D011,50.96718293886412,0,4,"Good trip, arrived on time."
+T00420,D022,46.46260366500623,0,5,Smooth ride and professional.
+T00421,D014,43.64961496192549,0,5,"Clean car, great experience!"
+T00422,D027,34.844674780933246,0,4,Professional service.
+T00423,D033,63.238142147894564,0,4,Professional service.
+T00424,D001,23.251212936192296,0,5,"Clean car, great experience!"
+T00425,D031,22.42985485403542,0,5,"Clean car, great experience!"
+T00426,D022,54.132497577457436,0,5,"Clean car, great experience!"
+T00427,D021,52.90144576214605,0,4,"Steady driving, no complaints."
+T00428,D024,45.30644168487802,0,5,"Amazing driver, felt very safe."
+T00429,D021,35.6807166714579,0,5,"Clean car, great experience!"
+T00430,D021,47.53633193785618,1,3,Average experience.
+T00431,D048,65.812454456793,0,4,Professional service.
+T00432,D041,77.73319311811338,0,4,Professional service.
+T00433,D005,15.153794417872653,0,5,"Amazing driver, felt very safe."
+T00434,D014,33.7161982112718,0,5,"Amazing driver, felt very safe."
+T00435,D042,32.77340105522741,0,5,"Amazing driver, felt very safe."
+T00436,D036,64.39779207549523,0,5,"Clean car, great experience!"
+T00437,D032,10.0,0,5,"Clean car, great experience!"
+T00438,D007,47.70752789598319,0,4,Professional service.
+T00439,D043,36.147845373714496,0,5,"Amazing driver, felt very safe."
+T00440,D043,64.5716912432146,0,4,"Steady driving, no complaints."
+T00441,D004,62.51558260006691,0,5,"Clean car, great experience!"
+T00442,D038,45.48260102240039,0,4,Professional service.
+T00443,D003,16.304153939323047,0,5,"Clean car, great experience!"
+T00444,D005,31.391657764973004,0,5,Smooth ride and professional.
+T00445,D044,33.03413385079392,1,3,Driver was a bit slow.
+T00446,D031,20.103178083198028,0,5,Smooth ride and professional.
+T00447,D029,57.31876422789055,1,3,Driver was a bit slow.
+T00448,D046,18.19860254088391,0,5,Smooth ride and professional.
+T00449,D034,69.47991262680569,0,4,Professional service.
+T00450,D039,69.44233951068188,0,4,"Good trip, arrived on time."
+T00451,D015,34.22409607210741,0,5,"Amazing driver, felt very safe."
+T00452,D012,44.92743055194724,0,4,"Good trip, arrived on time."
+T00453,D049,38.91574782894364,1,3,"Fine ride, but the car smelled a bit."
+T00454,D041,53.527372005425356,0,5,"Clean car, great experience!"
+T00455,D029,59.120160078471386,0,4,"Good trip, arrived on time."
+T00456,D018,43.86995488180099,0,5,Smooth ride and professional.
+T00457,D016,47.036750646715944,0,5,"Amazing driver, felt very safe."
+T00458,D018,30.690936040907253,0,5,"Amazing driver, felt very safe."
+T00459,D027,46.55070950335508,1,3,"Fine ride, but the car smelled a bit."
+T00460,D025,42.44143118385971,0,5,"Clean car, great experience!"
+T00461,D036,26.323082668729647,0,5,"Amazing driver, felt very safe."
+T00462,D025,39.78944335985333,0,5,Smooth ride and professional.
+T00463,D022,34.252262230208906,0,5,"Amazing driver, felt very safe."
+T00464,D008,30.857566272729123,0,5,"Amazing driver, felt very safe."
+T00465,D011,22.80263188600648,0,5,"Amazing driver, felt very safe."
+T00466,D000,40.937540998742136,0,5,Smooth ride and professional.
+T00467,D000,28.292889905119846,0,5,"Amazing driver, felt very safe."
+T00468,D046,32.93337741545951,0,5,Smooth ride and professional.
+T00469,D033,56.126864128259335,0,4,"Steady driving, no complaints."
+T00470,D031,49.48174151902567,0,4,"Good trip, arrived on time."
+T00471,D047,25.318500282081196,0,5,Smooth ride and professional.
+T00472,D024,45.27836601859654,0,4,Professional service.
+T00473,D039,41.99171047396233,0,4,"Good trip, arrived on time."
+T00474,D044,65.52544312800191,0,5,"Amazing driver, felt very safe."
+T00475,D000,60.74717501308412,0,4,"Steady driving, no complaints."
+T00476,D015,16.993769114352457,0,5,Smooth ride and professional.
+T00477,D038,52.916915034379016,0,5,"Amazing driver, felt very safe."
+T00478,D004,58.977958774355486,0,5,"Clean car, great experience!"
+T00479,D021,48.39038813092497,0,5,Smooth ride and professional.
+T00480,D028,34.968817844587136,0,4,"Steady driving, no complaints."
+T00481,D002,76.20090872675705,0,4,Professional service.
+T00482,D011,49.771139213905336,0,4,Professional service.
+T00483,D025,69.64816410592341,0,4,"Good trip, arrived on time."
+T00484,D015,60.272176442102605,0,5,"Clean car, great experience!"
+T00485,D036,46.96201990334956,0,4,"Good trip, arrived on time."
+T00486,D021,31.30448632789559,0,5,"Clean car, great experience!"
+T00487,D028,39.63842682771248,0,4,"Steady driving, no complaints."
+T00488,D013,36.671313208096706,0,4,"Good trip, arrived on time."
+T00489,D027,21.78221566526095,0,5,"Amazing driver, felt very safe."
+T00490,D004,49.75422362439554,0,4,"Good trip, arrived on time."
+T00491,D046,63.51029502939114,0,4,Professional service.
+T00492,D048,35.5254475817283,0,5,Smooth ride and professional.
+T00493,D029,72.45484748837106,0,4,"Good trip, arrived on time."
+T00494,D045,16.636258212073994,0,5,"Amazing driver, felt very safe."
+T00495,D004,55.81545322580806,1,2,Sudden braking made me nervous.
+T00496,D011,65.07280353108115,0,4,"Good trip, arrived on time."
+T00497,D015,36.93954128528409,0,5,Smooth ride and professional.
+T00498,D025,37.20915242285679,0,5,"Clean car, great experience!"
+T00499,D025,55.641477637666014,0,4,"Steady driving, no complaints."
+T00500,D047,47.58986664939302,0,5,"Amazing driver, felt very safe."
+T00501,D020,10.038829848107397,0,5,Smooth ride and professional.
+T00502,D038,27.34940268190929,0,5,"Amazing driver, felt very safe."
+T00503,D035,39.7967567792881,0,4,Professional service.
+T00504,D032,19.454527304723996,0,5,"Clean car, great experience!"
+T00505,D029,32.88738525355144,0,4,Professional service.
+T00506,D036,19.829718621340987,0,5,"Amazing driver, felt very safe."
+T00507,D022,34.447440541699144,0,4,"Steady driving, no complaints."
+T00508,D009,34.95065909018259,0,5,"Clean car, great experience!"
+T00509,D004,45.276320148905704,0,5,"Amazing driver, felt very safe."
+T00510,D035,38.62361014000749,0,4,"Good trip, arrived on time."
+T00511,D033,47.54184581561134,0,5,Smooth ride and professional.
+T00512,D030,45.75316011210882,0,5,"Clean car, great experience!"
+T00513,D009,55.47009991396466,0,4,"Good trip, arrived on time."
+T00514,D018,53.10674561440174,0,4,"Steady driving, no complaints."
+T00515,D031,51.52185752702075,0,5,"Clean car, great experience!"
+T00516,D000,86.57301142700084,0,4,"Steady driving, no complaints."
+T00517,D004,45.21103954963493,0,5,Smooth ride and professional.
+T00518,D044,78.90357255788292,0,4,"Good trip, arrived on time."
+T00519,D003,46.183276033659,0,5,"Amazing driver, felt very safe."
+T00520,D015,38.75723627791162,0,5,"Amazing driver, felt very safe."
+T00521,D023,34.402522266802045,0,5,Smooth ride and professional.
+T00522,D015,62.645886976726445,0,4,"Good trip, arrived on time."
+T00523,D001,64.60755089331907,0,4,"Steady driving, no complaints."
+T00524,D048,48.99675783947094,0,5,Smooth ride and professional.
+T00525,D027,57.00320161754058,0,3,"Fine ride, but the car smelled a bit."
+T00526,D031,20.84169301115375,0,5,"Clean car, great experience!"
+T00527,D026,16.768302662316824,0,5,"Clean car, great experience!"
+T00528,D019,58.694903286961804,0,4,Professional service.
+T00529,D023,38.09782753145467,0,5,Smooth ride and professional.
+T00530,D011,51.239536260962545,0,4,"Steady driving, no complaints."
+T00531,D049,29.24068075065883,0,5,Smooth ride and professional.
+T00532,D034,64.85482704557162,0,4,"Good trip, arrived on time."
+T00533,D032,16.893719921664456,0,5,Smooth ride and professional.
+T00534,D032,19.21622370275967,0,5,"Amazing driver, felt very safe."
+T00535,D042,61.66467375568517,1,3,"Fine ride, but the car smelled a bit."
+T00536,D036,10.0,0,5,"Clean car, great experience!"
+T00537,D011,45.67853302142374,0,4,Professional service.
+T00538,D002,38.39011006605135,1,3,Driver was a bit slow.
+T00539,D000,28.960721211999555,0,5,"Amazing driver, felt very safe."
+T00540,D032,37.00090227114447,0,5,"Amazing driver, felt very safe."
+T00541,D039,27.287147603652848,1,4,"Good trip, arrived on time."
+T00542,D009,63.133839190727485,0,4,"Steady driving, no complaints."
+T00543,D042,67.06745632542415,0,4,"Good trip, arrived on time."
+T00544,D043,29.71393619817483,0,5,"Clean car, great experience!"
+T00545,D028,44.13287316202797,0,5,"Clean car, great experience!"
+T00546,D012,20.12385293595929,0,5,"Amazing driver, felt very safe."
+T00547,D011,56.0957823850469,0,5,"Amazing driver, felt very safe."
+T00548,D030,55.70513761964972,0,5,"Clean car, great experience!"
+T00549,D045,35.57106650938466,0,5,"Amazing driver, felt very safe."
+T00550,D001,40.25327587629843,0,5,"Clean car, great experience!"
+T00551,D049,38.593518257159936,0,5,Smooth ride and professional.
+T00552,D034,15.723132494795863,0,5,"Clean car, great experience!"
+T00553,D022,63.190062214001905,0,5,Smooth ride and professional.
+T00554,D016,28.495701416763538,0,5,"Amazing driver, felt very safe."
+T00555,D025,28.597760916131183,0,5,"Amazing driver, felt very safe."
+T00556,D007,37.74370218307251,0,4,"Steady driving, no complaints."
+T00557,D028,54.93322878043418,0,4,"Good trip, arrived on time."
+T00558,D025,31.130451773619537,0,4,"Steady driving, no complaints."
+T00559,D009,10.717221678948334,0,5,"Amazing driver, felt very safe."
+T00560,D025,26.695029089056987,0,5,"Clean car, great experience!"
+T00561,D033,46.362106286184854,0,4,"Good trip, arrived on time."
+T00562,D040,72.8462543171378,0,4,Professional service.
+T00563,D006,21.101200504402662,0,5,"Clean car, great experience!"
+T00564,D003,20.552473487787566,0,5,Smooth ride and professional.
+T00565,D049,17.311067487417763,1,4,"Good trip, arrived on time."
+T00566,D044,15.449125130509888,1,4,"Steady driving, no complaints."
+T00567,D010,58.08537190122146,0,5,"Amazing driver, felt very safe."
+T00568,D028,62.4203286304657,0,4,Professional service.
+T00569,D035,42.666338403706035,0,5,"Clean car, great experience!"
+T00570,D024,32.98430841788715,0,5,"Amazing driver, felt very safe."
+T00571,D020,66.86715680293939,0,4,"Good trip, arrived on time."
+T00572,D035,42.60862062484757,1,3,Average experience.
+T00573,D009,56.34155064040651,0,4,"Good trip, arrived on time."
+T00574,D036,32.25326587417277,0,5,"Amazing driver, felt very safe."
+T00575,D008,40.66365781335661,0,5,"Amazing driver, felt very safe."
+T00576,D023,21.439875318294305,0,5,Smooth ride and professional.
+T00577,D034,49.438734578403775,0,5,"Amazing driver, felt very safe."
+T00578,D048,42.86406626159974,1,3,Driver was a bit slow.
+T00579,D034,26.581551513793237,0,5,Smooth ride and professional.
+T00580,D047,26.78339275710308,0,5,Smooth ride and professional.
+T00581,D035,64.23937755008116,0,4,Professional service.
+T00582,D017,69.57503125692725,0,4,Professional service.
+T00583,D048,36.802969949990185,0,5,"Clean car, great experience!"
+T00584,D038,41.01630359143244,0,4,"Good trip, arrived on time."
+T00585,D031,46.00171711972325,0,5,"Clean car, great experience!"
+T00586,D023,42.22047637239531,0,4,"Good trip, arrived on time."
+T00587,D022,14.885534191920545,0,5,Smooth ride and professional.
+T00588,D031,46.41806015785579,0,5,Smooth ride and professional.
+T00589,D036,10.0,0,5,"Clean car, great experience!"
+T00590,D011,29.009737131135715,0,5,"Amazing driver, felt very safe."
+T00591,D048,47.581407199372265,0,5,"Clean car, great experience!"
+T00592,D012,48.999913118872556,1,3,Driver was a bit slow.
+T00593,D022,27.84890373685765,1,4,"Good trip, arrived on time."
+T00594,D024,33.123445897196234,0,5,"Clean car, great experience!"
+T00595,D034,31.092452365023195,0,4,"Steady driving, no complaints."
+T00596,D040,38.45733755295895,1,3,Driver was a bit slow.
+T00597,D029,39.598084800465045,1,3,"Fine ride, but the car smelled a bit."
+T00598,D016,50.027021942936656,0,4,"Good trip, arrived on time."
+T00599,D048,32.24654705665325,0,5,Smooth ride and professional.
+T00600,D019,45.60094287870333,0,5,"Amazing driver, felt very safe."
+T00601,D047,47.60523646730787,0,4,"Good trip, arrived on time."
+T00602,D024,42.97434066057798,0,4,"Steady driving, no complaints."
+T00603,D021,36.10591266325788,0,5,"Clean car, great experience!"
+T00604,D012,42.709681964131605,0,4,"Steady driving, no complaints."
+T00605,D018,51.276104100903645,0,4,Professional service.
+T00606,D048,52.58777301574468,0,4,"Steady driving, no complaints."
+T00607,D035,67.23059027240359,0,4,Professional service.
+T00608,D011,25.149606455406076,1,4,"Steady driving, no complaints."
+T00609,D040,33.39988913506896,0,5,"Clean car, great experience!"
+T00610,D018,15.79797009597397,0,5,Smooth ride and professional.
+T00611,D011,53.96514196491783,0,4,Professional service.
+T00612,D008,34.9823874046488,0,5,Smooth ride and professional.
+T00613,D006,43.0928647304399,0,4,"Good trip, arrived on time."
+T00614,D027,30.9349214583004,1,3,Driver was a bit slow.
+T00615,D013,35.09944007533262,0,5,Smooth ride and professional.
+T00616,D030,58.34785158139987,0,4,Professional service.
+T00617,D018,50.41350115728975,0,4,Professional service.
+T00618,D046,38.32716913511582,0,4,"Steady driving, no complaints."
+T00619,D015,51.51720879214595,0,4,Professional service.
+T00620,D004,51.84850120056811,0,4,"Steady driving, no complaints."
+T00621,D034,34.12861724969897,0,5,"Amazing driver, felt very safe."
+T00622,D011,17.963806590456876,0,5,"Clean car, great experience!"
+T00623,D024,26.512575594969412,0,4,"Good trip, arrived on time."
+T00624,D020,19.892070949262244,0,5,"Clean car, great experience!"
+T00625,D035,57.46651968989361,0,4,Professional service.
+T00626,D022,60.07172824671522,0,4,Professional service.
+T00627,D015,63.795608202385246,0,4,"Steady driving, no complaints."
+T00628,D038,10.0,0,5,"Amazing driver, felt very safe."
+T00629,D044,56.071013655605825,0,4,Professional service.
+T00630,D041,73.18286964077028,0,3,Average experience.
+T00631,D038,56.679815707159676,1,3,Driver was a bit slow.
+T00632,D013,10.0,0,5,Smooth ride and professional.
+T00633,D030,66.52447462595157,0,4,Professional service.
+T00634,D004,40.625335556979124,0,4,"Good trip, arrived on time."
+T00635,D034,36.51401340249293,0,5,"Amazing driver, felt very safe."
+T00636,D022,46.766429448744674,1,3,Driver was a bit slow.
+T00637,D028,24.264896161442707,0,4,"Steady driving, no complaints."
+T00638,D042,40.041735563823686,0,5,"Clean car, great experience!"
+T00639,D010,64.3064446765611,0,4,"Steady driving, no complaints."
+T00640,D017,49.33595305784932,0,4,Professional service.
+T00641,D046,40.87602208154002,0,4,"Steady driving, no complaints."
+T00642,D011,41.34412239891413,0,4,"Good trip, arrived on time."
+T00643,D008,22.279090250517978,0,5,"Clean car, great experience!"
+T00644,D009,37.75018162900412,0,5,"Amazing driver, felt very safe."
+T00645,D043,15.485569965553488,0,5,"Amazing driver, felt very safe."
+T00646,D016,55.33661428590716,0,5,"Clean car, great experience!"
+T00647,D037,10.0,0,5,"Clean car, great experience!"
+T00648,D006,52.82350569431065,0,4,"Steady driving, no complaints."
+T00649,D045,54.691163512510926,0,5,Smooth ride and professional.
+T00650,D012,59.78146923590791,0,4,"Good trip, arrived on time."
+T00651,D039,41.30288744742704,0,5,Smooth ride and professional.
+T00652,D041,53.749426992362935,0,4,"Steady driving, no complaints."
+T00653,D008,37.603800394521755,0,5,"Clean car, great experience!"
+T00654,D049,22.199543234681,0,5,Smooth ride and professional.
+T00655,D026,62.96098588806993,0,4,"Good trip, arrived on time."
+T00656,D001,38.54671255577388,0,5,Smooth ride and professional.
+T00657,D004,18.857330237902083,0,5,"Amazing driver, felt very safe."
+T00658,D028,32.99777581315327,0,5,"Clean car, great experience!"
+T00659,D036,33.59012976147743,0,5,"Amazing driver, felt very safe."
+T00660,D037,46.92545377186318,0,4,"Steady driving, no complaints."
+T00661,D018,75.20571225059096,0,3,Driver was a bit slow.
+T00662,D007,47.836279199238476,0,5,Smooth ride and professional.
+T00663,D047,43.102657779947876,0,4,Professional service.
+T00664,D044,76.83664299343832,0,4,Professional service.
+T00665,D000,54.68340309869088,0,5,Smooth ride and professional.
+T00666,D021,43.81373806202393,0,4,"Steady driving, no complaints."
+T00667,D016,32.808822117728575,0,5,"Clean car, great experience!"
+T00668,D006,44.74300114306841,0,4,Professional service.
+T00669,D024,39.00414393860295,0,5,Smooth ride and professional.
+T00670,D044,41.37151191338494,0,4,"Good trip, arrived on time."
+T00671,D003,59.71603637154209,0,4,"Steady driving, no complaints."
+T00672,D035,31.89516725293768,0,5,"Clean car, great experience!"
+T00673,D005,47.703110622452705,0,5,Smooth ride and professional.
+T00674,D030,54.23409984756391,0,4,"Good trip, arrived on time."
+T00675,D018,30.068312247633855,0,5,Smooth ride and professional.
+T00676,D043,27.660678767663484,0,5,"Clean car, great experience!"
+T00677,D038,37.74487116128645,0,5,Smooth ride and professional.
+T00678,D026,33.07555614615309,0,5,"Clean car, great experience!"
+T00679,D009,57.28498913112256,0,4,Professional service.
+T00680,D025,24.97347582153018,0,5,Smooth ride and professional.
+T00681,D018,41.02707052793005,0,5,"Clean car, great experience!"
+T00682,D038,78.19072500106712,0,4,Professional service.
+T00683,D002,46.19584800679274,0,4,"Good trip, arrived on time."
+T00684,D044,48.68935216457328,0,4,"Good trip, arrived on time."
+T00685,D012,57.41023743545688,0,4,"Good trip, arrived on time."
+T00686,D049,33.05576401861961,0,5,"Amazing driver, felt very safe."
+T00687,D027,23.778705568818943,1,3,Driver was a bit slow.
+T00688,D019,42.647669142441174,0,5,Smooth ride and professional.
+T00689,D027,43.98105742522806,0,5,"Clean car, great experience!"
+T00690,D007,15.726838079302581,0,5,"Clean car, great experience!"
+T00691,D040,45.626078720241665,0,5,"Clean car, great experience!"
+T00692,D038,56.047757480515585,0,4,"Steady driving, no complaints."
+T00693,D000,26.305778904639862,0,5,"Amazing driver, felt very safe."
+T00694,D002,46.533337725622204,0,5,"Clean car, great experience!"
+T00695,D012,53.38395490555201,0,5,"Clean car, great experience!"
+T00696,D027,48.800173127951204,0,4,"Good trip, arrived on time."
+T00697,D048,50.215093581123355,0,4,Professional service.
+T00698,D024,36.32799637290548,0,5,Smooth ride and professional.
+T00699,D032,23.08743493389106,0,5,"Clean car, great experience!"
+T00700,D037,33.292803064241305,0,5,"Clean car, great experience!"
+T00701,D005,31.209143471940628,0,5,"Amazing driver, felt very safe."
+T00702,D043,38.796114306886814,0,4,Professional service.
+T00703,D044,56.39906358189894,0,4,Professional service.
+T00704,D031,20.322398077537468,0,5,Smooth ride and professional.
+T00705,D044,42.16375034226086,0,5,"Amazing driver, felt very safe."
+T00706,D046,24.04897531723221,0,5,"Amazing driver, felt very safe."
+T00707,D020,28.89929623265843,0,5,Smooth ride and professional.
+T00708,D015,48.381111289177625,0,5,"Clean car, great experience!"
+T00709,D020,22.15082419951451,0,5,"Amazing driver, felt very safe."
+T00710,D010,51.013664345544676,0,4,"Good trip, arrived on time."
+T00711,D036,19.71753330062913,0,5,"Clean car, great experience!"
+T00712,D035,50.0047060515724,1,3,Driver was a bit slow.
+T00713,D034,16.75703095632232,0,5,"Amazing driver, felt very safe."
+T00714,D018,30.732809811150766,0,5,"Clean car, great experience!"
+T00715,D019,68.44741574694342,0,4,"Good trip, arrived on time."
+T00716,D017,65.62819554650329,0,4,Professional service.
+T00717,D046,33.81213021224282,0,5,"Clean car, great experience!"
+T00718,D040,45.84940879044852,0,4,"Steady driving, no complaints."
+T00719,D048,58.061020283273265,0,4,Professional service.
+T00720,D013,50.21944261630706,0,4,"Steady driving, no complaints."
+T00721,D014,35.89803630317764,0,4,Professional service.
+T00722,D030,28.770470289455005,0,5,"Amazing driver, felt very safe."
+T00723,D000,53.021547144368945,0,5,"Amazing driver, felt very safe."
+T00724,D002,56.960549629217525,1,2,A bit rude when I asked a question.
+T00725,D015,65.73552751591582,0,4,Professional service.
+T00726,D022,14.691258648203934,0,5,"Amazing driver, felt very safe."
+T00727,D010,21.203128176984215,0,5,"Clean car, great experience!"
+T00728,D011,57.42885403220621,0,4,"Steady driving, no complaints."
+T00729,D009,16.727041798747347,0,5,Smooth ride and professional.
+T00730,D031,58.57824932367899,1,2,Driver was speeding on the highway.
+T00731,D015,36.77601241021912,0,4,"Steady driving, no complaints."
+T00732,D007,32.18629270994973,0,5,Smooth ride and professional.
+T00733,D037,43.08142894407204,0,5,"Clean car, great experience!"
+T00734,D011,19.819473216467518,0,5,"Clean car, great experience!"
+T00735,D023,52.36022245897527,1,3,Average experience.
+T00736,D027,65.34455496542046,0,4,Professional service.
+T00737,D007,53.05864323721362,0,4,Professional service.
+T00738,D027,36.30236961168789,0,5,Smooth ride and professional.
+T00739,D035,16.929464383518386,0,5,"Clean car, great experience!"
+T00740,D025,17.506188156956004,0,5,"Clean car, great experience!"
+T00741,D007,20.055350466410385,0,5,"Clean car, great experience!"
+T00742,D049,39.81582584331524,0,5,Smooth ride and professional.
+T00743,D027,41.70100094908907,0,4,Professional service.
+T00744,D027,53.02665266111493,0,4,"Good trip, arrived on time."
+T00745,D036,13.059565202753866,0,5,"Amazing driver, felt very safe."
+T00746,D040,59.668153455886,0,5,Smooth ride and professional.
+T00747,D035,50.416094784180565,1,3,"Fine ride, but the car smelled a bit."
+T00748,D026,35.097455604067974,0,5,Smooth ride and professional.
+T00749,D016,22.153576874018498,0,5,"Amazing driver, felt very safe."
+T00750,D008,58.737109625366784,0,4,"Good trip, arrived on time."
+T00751,D032,35.49859058143924,0,4,"Good trip, arrived on time."
+T00752,D019,39.69971650983357,0,5,Smooth ride and professional.
+T00753,D012,45.75417956181898,0,4,"Steady driving, no complaints."
+T00754,D027,26.30201641327583,1,3,Driver was a bit slow.
+T00755,D047,35.76729131462127,0,5,Smooth ride and professional.
+T00756,D028,52.9797535303057,0,5,"Amazing driver, felt very safe."
+T00757,D012,51.46144117744413,0,4,"Good trip, arrived on time."
+T00758,D045,51.59660810042856,0,4,"Steady driving, no complaints."
+T00759,D034,22.67230373289352,0,5,Smooth ride and professional.
+T00760,D005,36.45129473906289,0,5,Smooth ride and professional.
+T00761,D017,34.054092474282925,0,5,"Clean car, great experience!"
+T00762,D004,46.377682634120525,0,4,"Good trip, arrived on time."
+T00763,D046,45.034869844733464,0,4,Professional service.
+T00764,D024,42.33140996114405,0,4,Professional service.
+T00765,D001,76.98600933129893,0,3,"Fine ride, but the car smelled a bit."
+T00766,D009,35.63790879783944,0,5,"Amazing driver, felt very safe."
+T00767,D029,33.88265370897184,0,5,Smooth ride and professional.
+T00768,D049,22.64875494495916,0,5,Smooth ride and professional.
+T00769,D044,16.93229011106694,0,5,"Clean car, great experience!"
+T00770,D004,21.69523934176337,0,5,Smooth ride and professional.
+T00771,D032,29.219771118350803,0,5,Smooth ride and professional.
+T00772,D000,59.65109641656779,0,4,"Good trip, arrived on time."
+T00773,D017,40.58745856542788,0,5,"Amazing driver, felt very safe."
+T00774,D031,42.899960004291,0,5,Smooth ride and professional.
+T00775,D046,38.55590037696855,0,5,"Amazing driver, felt very safe."
+T00776,D048,45.47951489532683,0,4,"Steady driving, no complaints."
+T00777,D010,61.03108220826765,0,4,"Good trip, arrived on time."
+T00778,D020,10.09103745597946,0,5,"Amazing driver, felt very safe."
+T00779,D025,58.27505973378071,0,4,"Good trip, arrived on time."
+T00780,D024,10.0,0,5,"Amazing driver, felt very safe."
+T00781,D021,40.42304067282891,0,5,Smooth ride and professional.
+T00782,D026,72.87861032116624,0,4,Professional service.
+T00783,D048,50.20986909297316,0,4,"Good trip, arrived on time."
+T00784,D012,45.59588402980955,0,5,Smooth ride and professional.
+T00785,D032,70.0291895020446,0,4,"Steady driving, no complaints."
+T00786,D033,29.454056529982843,0,5,"Amazing driver, felt very safe."
+T00787,D040,46.50951133697571,0,5,"Clean car, great experience!"
+T00788,D034,48.6717564621084,0,4,"Good trip, arrived on time."
+T00789,D000,32.16396798659461,0,5,Smooth ride and professional.
+T00790,D020,33.48834730756029,1,3,Driver was a bit slow.
+T00791,D047,31.843308501649904,0,5,Smooth ride and professional.
+T00792,D005,41.309724610128455,0,5,"Amazing driver, felt very safe."
+T00793,D027,48.200374086569695,0,5,"Clean car, great experience!"
+T00794,D016,41.84845409371993,0,4,"Steady driving, no complaints."
+T00795,D004,50.64192726144783,0,4,"Steady driving, no complaints."
+T00796,D030,10.462790710396789,0,5,Smooth ride and professional.
+T00797,D004,36.72623254385745,0,5,"Amazing driver, felt very safe."
+T00798,D037,24.64871034474031,0,5,"Clean car, great experience!"
+T00799,D002,44.52583769024348,0,4,"Good trip, arrived on time."
+T00800,D022,44.30376143008485,0,4,"Good trip, arrived on time."
+T00801,D036,38.26566827563817,0,4,"Good trip, arrived on time."
+T00802,D036,47.65418515798107,0,4,Professional service.
+T00803,D009,54.96719077396041,0,5,"Amazing driver, felt very safe."
+T00804,D009,39.09219216540537,0,5,"Amazing driver, felt very safe."
+T00805,D018,24.22457667850447,0,5,"Amazing driver, felt very safe."
+T00806,D016,16.281136436207785,0,5,"Amazing driver, felt very safe."
+T00807,D020,40.541652629951926,0,5,Smooth ride and professional.
+T00808,D013,43.62800052270311,0,4,"Good trip, arrived on time."
+T00809,D008,25.457141657200314,0,5,Smooth ride and professional.
+T00810,D045,50.886502347445486,0,5,"Amazing driver, felt very safe."
+T00811,D000,33.115646712631396,0,5,"Clean car, great experience!"
+T00812,D044,15.153507022432745,0,5,Smooth ride and professional.
+T00813,D012,58.846545135177834,0,5,Smooth ride and professional.
+T00814,D003,57.159818788032446,0,4,"Steady driving, no complaints."
+T00815,D000,10.0,0,5,Smooth ride and professional.
+T00816,D048,31.560995775194613,0,5,"Clean car, great experience!"
+T00817,D039,30.976244778785855,1,3,"Fine ride, but the car smelled a bit."
+T00818,D031,64.59232989126254,0,4,"Steady driving, no complaints."
+T00819,D033,38.51060934937516,0,4,Professional service.
+T00820,D027,17.561827029168736,0,5,Smooth ride and professional.
+T00821,D030,53.23157173361317,0,4,"Good trip, arrived on time."
+T00822,D007,21.538366813508787,0,5,Smooth ride and professional.
+T00823,D038,36.09489263917358,1,3,Driver was a bit slow.
+T00824,D025,28.453466831786848,0,5,"Amazing driver, felt very safe."
+T00825,D033,31.5931735258009,0,5,"Clean car, great experience!"
+T00826,D002,54.05887134345909,0,5,"Amazing driver, felt very safe."
+T00827,D049,62.819952419982485,0,4,"Good trip, arrived on time."
+T00828,D011,20.88446880430932,0,5,"Amazing driver, felt very safe."
+T00829,D000,49.39114638261726,0,4,"Steady driving, no complaints."
+T00830,D043,29.00869555465006,0,5,"Clean car, great experience!"
+T00831,D004,29.474921349638866,0,5,"Clean car, great experience!"
+T00832,D029,47.35954332134072,0,4,Professional service.
+T00833,D029,24.581458514294575,0,5,"Amazing driver, felt very safe."
+T00834,D016,47.05903901162567,0,4,"Steady driving, no complaints."
+T00835,D047,50.951700347646025,0,4,"Good trip, arrived on time."
+T00836,D046,33.512016074514726,0,5,"Clean car, great experience!"
+T00837,D022,59.906171530205,0,4,"Steady driving, no complaints."
+T00838,D014,20.907630819077394,0,5,Smooth ride and professional.
+T00839,D036,60.18109285917508,0,4,"Steady driving, no complaints."
+T00840,D020,10.840188557723007,0,5,"Clean car, great experience!"
+T00841,D013,80.49571210629264,0,3,Average experience.
+T00842,D001,33.90696642067251,0,4,"Steady driving, no complaints."
+T00843,D010,22.565392654185736,0,5,"Amazing driver, felt very safe."
+T00844,D038,36.50992137220002,0,4,"Good trip, arrived on time."
+T00845,D037,24.302830860633573,0,5,Smooth ride and professional.
+T00846,D033,45.80447948281813,0,5,Smooth ride and professional.
+T00847,D037,60.51485997205221,0,4,"Good trip, arrived on time."
+T00848,D049,25.09815660914984,0,5,"Amazing driver, felt very safe."
+T00849,D033,48.69098858761005,0,5,"Amazing driver, felt very safe."
+T00850,D017,17.00896946656361,0,5,"Clean car, great experience!"
+T00851,D029,55.49432099842919,0,4,Professional service.
+T00852,D014,46.243545503913936,0,4,"Good trip, arrived on time."
+T00853,D026,56.1427498199548,0,4,"Steady driving, no complaints."
+T00854,D033,38.16479646038342,0,4,"Good trip, arrived on time."
+T00855,D037,33.472651032178725,0,4,Professional service.
+T00856,D032,52.24176154086,0,4,"Steady driving, no complaints."
+T00857,D023,20.379272176623722,1,4,Professional service.
+T00858,D014,13.857635023996373,1,3,Average experience.
+T00859,D029,39.92557023939943,0,5,"Clean car, great experience!"
+T00860,D041,34.156050897118114,0,4,"Steady driving, no complaints."
+T00861,D016,48.30749997672319,0,4,"Steady driving, no complaints."
+T00862,D004,56.37327136470995,0,4,"Steady driving, no complaints."
+T00863,D028,47.99521118726709,0,4,"Steady driving, no complaints."
+T00864,D003,55.17854967740118,0,4,Professional service.
+T00865,D009,44.81578499998246,0,5,"Clean car, great experience!"
+T00866,D016,47.41893622481648,0,4,"Steady driving, no complaints."
+T00867,D009,38.25014185251594,0,5,Smooth ride and professional.
+T00868,D016,46.97568191522773,0,4,Professional service.
+T00869,D019,42.4997924284527,0,4,"Steady driving, no complaints."
+T00870,D023,44.87765194793596,0,5,Smooth ride and professional.
+T00871,D004,37.499139503697414,0,5,Smooth ride and professional.
+T00872,D033,52.133938007069474,0,4,"Good trip, arrived on time."
+T00873,D005,29.343211752475725,0,5,Smooth ride and professional.
+T00874,D001,39.724764686438405,0,4,"Good trip, arrived on time."
+T00875,D012,59.67675850311363,0,4,"Steady driving, no complaints."
+T00876,D042,25.769172656183123,0,5,"Clean car, great experience!"
+T00877,D042,10.0,0,5,"Amazing driver, felt very safe."
+T00878,D047,45.49685749446958,0,4,"Good trip, arrived on time."
+T00879,D010,36.14568264469751,0,5,Smooth ride and professional.
+T00880,D046,55.16293360557759,0,4,"Steady driving, no complaints."
+T00881,D022,38.04227380154509,0,5,"Amazing driver, felt very safe."
+T00882,D015,30.934913926550323,1,3,Driver was a bit slow.
+T00883,D030,38.8627390627268,0,5,"Clean car, great experience!"
+T00884,D010,56.39602879919816,0,4,"Steady driving, no complaints."
+T00885,D015,48.63054440788563,0,4,Professional service.
+T00886,D007,10.0,0,5,"Clean car, great experience!"
+T00887,D003,42.78651238130157,0,5,Smooth ride and professional.
+T00888,D039,43.53643198602107,0,4,Professional service.
+T00889,D003,39.72625052199221,0,5,Smooth ride and professional.
+T00890,D024,30.836651626471163,0,5,"Amazing driver, felt very safe."
+T00891,D002,57.91797811759666,1,2,Driver was speeding on the highway.
+T00892,D031,58.660509222022924,0,4,"Good trip, arrived on time."
+T00893,D002,10.0,0,5,"Amazing driver, felt very safe."
+T00894,D026,28.030607833878335,0,5,"Clean car, great experience!"
+T00895,D028,37.8290402307142,0,5,"Clean car, great experience!"
+T00896,D031,54.227623055750044,0,4,Professional service.
+T00897,D049,40.52279314587649,0,4,"Steady driving, no complaints."
+T00898,D018,29.746092997526148,0,5,"Clean car, great experience!"
+T00899,D020,50.64300365961062,0,5,"Amazing driver, felt very safe."
+T00900,D004,36.82995871673511,0,5,"Clean car, great experience!"
+T00901,D017,38.2389871126756,1,3,Driver was a bit slow.
+T00902,D027,39.592623498938856,1,3,Average experience.
+T00903,D041,48.61462661257726,0,4,"Steady driving, no complaints."
+T00904,D021,35.37175597489319,0,5,"Amazing driver, felt very safe."
+T00905,D020,50.304197389708335,0,5,Smooth ride and professional.
+T00906,D005,38.90396547389391,0,5,"Clean car, great experience!"
+T00907,D000,23.99475120373186,0,5,Smooth ride and professional.
+T00908,D004,39.448355414568276,0,4,"Good trip, arrived on time."
+T00909,D040,24.771798952821776,0,5,"Clean car, great experience!"
+T00910,D011,40.614801846639125,0,4,"Good trip, arrived on time."
+T00911,D025,52.442108938471996,0,4,"Steady driving, no complaints."
+T00912,D045,23.89556490996828,0,5,Smooth ride and professional.
+T00913,D033,45.46410108706658,0,4,"Good trip, arrived on time."
+T00914,D048,27.56443812470188,1,3,Driver was a bit slow.
+T00915,D013,43.02550839874821,0,4,"Steady driving, no complaints."
+T00916,D025,52.90306363030726,0,4,"Steady driving, no complaints."
+T00917,D044,10.0,0,5,"Clean car, great experience!"
+T00918,D026,23.282862596929817,0,5,Smooth ride and professional.
+T00919,D008,34.46530832335117,0,5,"Amazing driver, felt very safe."
+T00920,D025,44.72560733772423,0,5,Smooth ride and professional.
+T00921,D046,37.50425005962514,0,4,"Steady driving, no complaints."
+T00922,D021,39.311788270286215,0,5,"Clean car, great experience!"
+T00923,D046,70.64476788026884,0,4,"Good trip, arrived on time."
+T00924,D029,21.813140817261587,0,5,"Clean car, great experience!"
+T00925,D042,57.032275245441554,0,4,"Steady driving, no complaints."
+T00926,D047,34.750328092683745,0,4,"Steady driving, no complaints."
+T00927,D016,48.24212188748101,0,5,"Clean car, great experience!"
+T00928,D025,71.934198336184,0,4,Professional service.
+T00929,D035,50.33017035528139,0,5,"Clean car, great experience!"
+T00930,D000,45.58743564685,0,4,"Good trip, arrived on time."
+T00931,D007,63.98683502724063,0,4,"Steady driving, no complaints."
+T00932,D048,56.87197966889788,0,4,Professional service.
+T00933,D034,28.00908885757847,0,5,Smooth ride and professional.
+T00934,D014,44.41787113680783,0,4,"Good trip, arrived on time."
+T00935,D046,14.237563987888606,0,5,"Amazing driver, felt very safe."
+T00936,D021,31.897699174386233,0,5,"Amazing driver, felt very safe."
+T00937,D013,44.71079451399789,0,5,"Amazing driver, felt very safe."
+T00938,D025,30.968419708281118,0,5,Smooth ride and professional.
+T00939,D027,44.10050118957887,0,4,"Good trip, arrived on time."
+T00940,D022,39.79923076520441,0,4,"Good trip, arrived on time."
+T00941,D013,48.04625098592564,1,3,Driver was a bit slow.
+T00942,D023,33.637014669578335,0,5,"Amazing driver, felt very safe."
+T00943,D001,25.8977662834493,0,5,"Clean car, great experience!"
+T00944,D044,62.171902392598916,0,4,"Good trip, arrived on time."
+T00945,D025,32.564548859650834,0,5,"Amazing driver, felt very safe."
+T00946,D013,49.90015889675677,0,4,Professional service.
+T00947,D006,61.528705397088046,0,4,"Good trip, arrived on time."
+T00948,D002,42.44004998496298,0,5,Smooth ride and professional.
+T00949,D046,27.155401458352756,1,4,"Steady driving, no complaints."
+T00950,D022,37.32085038178983,0,5,"Amazing driver, felt very safe."
+T00951,D045,55.263113749101294,0,4,"Steady driving, no complaints."
+T00952,D042,43.093713186067944,0,5,"Clean car, great experience!"
+T00953,D046,21.922873116935847,0,5,"Amazing driver, felt very safe."
+T00954,D044,48.94965750300568,0,5,"Amazing driver, felt very safe."
+T00955,D017,51.542972035764976,0,4,Professional service.
+T00956,D037,34.67032170823099,1,3,Driver was a bit slow.
+T00957,D034,49.15366563407119,0,4,Professional service.
+T00958,D014,43.67527893190701,0,4,"Good trip, arrived on time."
+T00959,D024,37.03855692036941,0,5,"Clean car, great experience!"
+T00960,D036,20.596963846095047,0,5,"Clean car, great experience!"
+T00961,D027,56.16930842658637,0,4,"Steady driving, no complaints."
+T00962,D009,51.3881649987975,0,4,"Steady driving, no complaints."
+T00963,D038,48.75829441562969,1,3,"Fine ride, but the car smelled a bit."
+T00964,D016,63.167890055171405,0,4,"Steady driving, no complaints."
+T00965,D038,54.17790590520391,0,5,Smooth ride and professional.
+T00966,D021,50.29849009227344,0,4,Professional service.
+T00967,D025,10.0,0,5,"Clean car, great experience!"
+T00968,D043,57.953424277036234,1,3,Average experience.
+T00969,D024,41.24620771423076,0,5,Smooth ride and professional.
+T00970,D016,44.68737520385708,0,4,"Steady driving, no complaints."
+T00971,D012,44.78999784540079,1,3,"Fine ride, but the car smelled a bit."
+T00972,D019,51.60749115463419,0,5,"Amazing driver, felt very safe."
+T00973,D024,56.83262543202528,0,4,"Good trip, arrived on time."
+T00974,D003,49.51361714588833,0,5,Smooth ride and professional.
+T00975,D009,47.129283839798376,0,5,Smooth ride and professional.
+T00976,D002,43.472691089433575,0,5,"Amazing driver, felt very safe."
+T00977,D040,10.0,0,5,"Amazing driver, felt very safe."
+T00978,D044,35.686134708247174,0,5,Smooth ride and professional.
+T00979,D017,25.876157239740316,0,4,Professional service.
+T00980,D046,58.161093084086275,0,4,"Good trip, arrived on time."
+T00981,D035,49.285557974294406,0,4,"Steady driving, no complaints."
+T00982,D046,33.127945191793984,0,4,"Steady driving, no complaints."
+T00983,D021,34.63424226596133,0,5,"Clean car, great experience!"
+T00984,D033,34.09027955046368,0,4,"Steady driving, no complaints."
+T00985,D046,33.822607685216205,0,5,Smooth ride and professional.
+T00986,D007,18.33163834712804,0,5,"Amazing driver, felt very safe."
+T00987,D039,15.080807600833484,0,5,"Amazing driver, felt very safe."
+T00988,D048,40.43570158572616,0,5,"Clean car, great experience!"
+T00989,D043,56.12971209039032,0,4,Professional service.
+T00990,D018,31.93465453858206,0,5,Smooth ride and professional.
+T00991,D041,44.551671263860676,0,4,"Good trip, arrived on time."
+T00992,D040,51.013913757650876,0,4,Professional service.
+T00993,D036,25.099326916242152,0,5,"Clean car, great experience!"
+T00994,D005,39.70036856920145,1,3,Driver was a bit slow.
+T00995,D025,30.002192780897275,0,5,Smooth ride and professional.
+T00996,D033,64.0917923774694,0,4,"Good trip, arrived on time."
+T00997,D044,63.436892602931714,0,4,Professional service.
+T00998,D005,25.11485740187724,0,5,"Amazing driver, felt very safe."
+T00999,D036,45.788265746264884,0,5,"Clean car, great experience!"
